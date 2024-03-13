@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['../../.eslintrc.js', "plugin:codelyzer/angular"],
+  extends: ['../../.eslintrc.js'],
   ignorePatterns: ['!**/*'],
   overrides: [
     {
